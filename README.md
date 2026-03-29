@@ -1,49 +1,5 @@
 # 🖨️ Elegoo Centauri Carbon 2  
 ### Slicer Profiles & Tuning Hub
-
-A curated collection of slicer profiles, filament presets, and calibration resources for the **Elegoo Centauri Carbon 2**.
-
-This repository focuses exclusively on **slicer-based optimization**, providing reliable starting points to improve print quality, consistency, and performance.
-
----
-
-## 🔧 Features
-
-### 🎛️ Slicer Profiles
-- Optimized profiles for:
-  - **OrcaSlicer**
-  - **Elegoo Slicer**
-- Balanced for quality, reliability, and ease of use
-
-### 🧵 Filament Profiles
-- Presets for a wide range of materials:
-  - PLA / PLA+
-  - PETG
-  - ABS / ASA
-  - TPU
-  - Nylon / PA
-  - Carbon Fiber blends (PA-CF, PETG-CF, etc.)
-- Tuned parameters include:
-  - Temperature
-  - Flow rate
-  - Cooling
-  - Retraction
-
-### 📐 Calibration Resources
-- Flow and extrusion tuning guidance  
-- Temperature tower setups  
-- Retraction calibration  
-- First layer optimization tips  
-
-### 📚 Documentation *(in progress)*
-- Tuning workflows  
-- Material-specific recommendations  
-- General troubleshooting guidance  
-
----
-
-## 🏷️ Profile Naming Conventions# 🖨️ Elegoo Centauri Carbon 2  
-### Slicer Profiles & Tuning Hub
 A curated collection of slicer profiles, filament presets, and calibration resources for the **Elegoo Centauri Carbon 2**.
 This repository focuses exclusively on **slicer-based optimization**, providing reliable starting points to improve print quality, consistency, and performance.
 

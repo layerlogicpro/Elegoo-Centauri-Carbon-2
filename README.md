@@ -42,6 +42,51 @@ This repository focuses exclusively on **slicer-based optimization**, providing 
 
 ---
 
+## 🏷️ Profile Naming Conventions
+
+To maintain consistency and scalability across the repository, all profiles follow structured naming formats:
+
+### 🖨️ Printer Profiles
+
+Manufacturer - Model - Nozzle Size
+
+**Example:**
+
+Elegoo - Centauri Carbon 2 - 0.4
+
+
+---
+
+### 🧵 Filament Profiles
+
+Manufacturer - Filament Type - Filament Color
+
+**Example:**
+
+Polymaker - PLA+ - Black
+
+
+---
+
+### ⚙️ Process Profiles
+
+Layer Height - Label - Printer - Strength - Support/Blank - Brim/Mouse Ear/Blank - Infill Pattern - Fast/Slow/Blank
+
+
+**Examples:**
+
+0.20 - Quality - CC2 - Standard - Support - Brim - Gyroid - Slow
+0.20 - Quality - CC2 - Standard - Brim - Gyroid - Slow
+0.20 - Quality - CC2 - Standard - Gyroid
+
+
+> Notes:
+> - Skip a slot where a category does not apply  (i.e. no support or brim from the examples above)
+> - Keep labels short and consistent (e.g., *Draft, Quality, Strength*)  
+> - Printer shorthand (e.g., **CC2**) may be used for brevity  
+
+---
+
 ## ⚠️ Disclaimer
 
 These profiles are **not guaranteed to work perfectly in every scenario**.
@@ -84,6 +129,6 @@ Please ensure contributions are clearly documented and tested where possible.
 
 ## 📄 License
 
-This project is open source. Licensing details will be defined as the repository evolves.
+[GNU General Public License v3.0](https://github.com/Botmans-Printing-Paradise/Elegoo-Centauri-Carbon-2/blob/main/LICENSE)
 
 ---

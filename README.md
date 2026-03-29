@@ -76,7 +76,9 @@ Layer Height - Label - Printer - Strength - Support/Blank - Brim/Mouse Ear/Blank
 **Examples:**
 
 0.20 - Quality - CC2 - Standard - Support - Brim - Gyroid - Slow
+
 0.20 - Quality - CC2 - Standard - Brim - Gyroid - Slow
+
 0.20 - Quality - CC2 - Standard - Gyroid
 
 

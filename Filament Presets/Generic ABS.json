@@ -1,0 +1,19 @@
+{
+    "name": "Generic ABS",
+    "from": "User",
+    "inherits": "Generic ABS @System",
+    "is_custom_defined": "0",
+    "version": "2.2.0.0",
+    "nozzle_temperature": ["260"],
+    "nozzle_temperature_initial_layer": ["260"],
+    "bed_temperature": ["100"],
+    "bed_temperature_initial_layer": ["100"],
+    "filament_flow_ratio": ["0.95"],
+    "filament_max_volumetric_speed": ["12"],
+    "fan_min_speed": ["0"],
+    "fan_max_speed": ["0"],
+    "close_fan_the_first_x_layers": ["3"],
+    "bridge_fan_speed": ["30"],
+    "exhaust_fan_speed": ["50"],
+    "filament_start_gcode": ["M191 S45 ; Wait for chamber to reach 45C"]
+}
